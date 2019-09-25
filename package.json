@@ -7,7 +7,7 @@
     "cloud-app-dev": "app.js"
   },
   "scripts": {
-    "start": "node index.js --url <your url> --gp test1234$ --gu cloudappdevtest@gmail.com --hw hw1"
+    "start": "node index.js --url <your url> --gp <google password> --gu <google email> --hw <homework number>"
   },
   "keywords": [],
   "author": "",
